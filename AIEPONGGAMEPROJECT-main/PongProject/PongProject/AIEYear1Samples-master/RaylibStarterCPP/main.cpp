@@ -61,7 +61,7 @@ int main()
                 if (IsKeyDown(KEY_S) && player1Paddle.y + player1Paddle.height < screenHeight)
                     player1Paddle.y += paddleSpeed;
 
-                // Added an AI-controlled paddle movement
+                // Added an AI-controlled paddle movement for the left paddle
                 if (ballPosition.y < player2Paddle.y + player2Paddle.height / 2 && player2Paddle.y > 0)
                     player2Paddle.y -= paddleSpeed * 0.75; // Adjust the speed here (0.75 is a slower speed)
                 if (ballPosition.y > player2Paddle.y + player2Paddle.height / 2 && player2Paddle.y + player2Paddle.height < screenHeight)
