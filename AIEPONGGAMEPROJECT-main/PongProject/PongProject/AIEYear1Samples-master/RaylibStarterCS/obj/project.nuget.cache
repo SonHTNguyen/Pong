@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "z0MHi2H+UEoi2UoXYv/aQ1bC62JQ5aeyN7kE2/79DqS8dtvrIMpavNX4oocpypqex5b9nYzj16VDccVzIe5rMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s211060\\Documents\\Pong\\AIEPONGGAMEPROJECT-main\\PongProject\\PongProject\\AIEYear1Samples-master\\RaylibStarterCS\\RaylibStarterCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s211060\\.nuget\\packages\\raylib-cs\\3.5.0\\raylib-cs.3.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
